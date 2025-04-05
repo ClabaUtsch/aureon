@@ -1,0 +1,26 @@
+table {width: 100%;
+    font-family: "Fraunces", serif;}
+
+td { width:7% }
+
+#linha1 {height: 20px;
+background-color: #DCC89D;}
+#linha2 {height: 20px; background-color: #DCC89D }
+#linha3 {height: 100px;}
+#linha4 {height: 100px;}
+#linha5 {height: 100px;}
+#linha6 {height: 100px;}
+#linha7 {height: 50px; background-color:#DCC89D}
+
+input {width: 99%;
+height: 30px;}
+.logo { text-align: center;}
+#text {color: white; 
+}
+h1 {font-weight: 400;
+    font-size: 1.2em;
+}
+a{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
